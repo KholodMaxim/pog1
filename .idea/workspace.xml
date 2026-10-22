@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f701a3b2-cbee-4966-b6dc-9b7b95a9e4b9" name="Changes" comment="Practise 1">
+    <list default="true" id="f701a3b2-cbee-4966-b6dc-9b7b95a9e4b9" name="Changes" comment="Practise 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/h02/T1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework/h02/T1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/h02/T2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework/h02/T2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homework/h03/T1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework/h03/T1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homework/h03/T2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework/h03/T2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,26 +48,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.jshint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.jshint": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "vcs.log"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.log&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mdkho\IdeaProjects\pog1\extra\main\java\homework\h02" />
       <recent name="C:\Users\Mdkho\IdeaProjects\pog1\extra\main\java\homework\h01" />
     </key>
   </component>
@@ -107,7 +108,8 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="first commit" />
     <MESSAGE value="Practise 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Practise 1" />
+    <MESSAGE value="Practise 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practise 2" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
