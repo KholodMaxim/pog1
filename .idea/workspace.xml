@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f701a3b2-cbee-4966-b6dc-9b7b95a9e4b9" name="Changes" comment="Practise 5">
+    <list default="true" id="f701a3b2-cbee-4966-b6dc-9b7b95a9e4b9" name="Changes" comment="Practise 6">
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework/h07/T1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework/h07/T2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/h06/T1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework/h06/T1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/h06/T2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework/h06/T2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,11 +68,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mdkho\IdeaProjects\pog1\extra\main\java\homework\h06" />
       <recent name="C:\Users\Mdkho\IdeaProjects\pog1\extra\main\java\homework\h05" />
       <recent name="C:\Users\Mdkho\IdeaProjects\pog1\extra\main\java\homework\h04" />
       <recent name="C:\Users\Mdkho\IdeaProjects\pog1\extra\main\java\homework\h03" />
       <recent name="C:\Users\Mdkho\IdeaProjects\pog1\extra\main\java\homework\h02" />
-      <recent name="C:\Users\Mdkho\IdeaProjects\pog1\extra\main\java\homework\h01" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -115,7 +115,8 @@
     <MESSAGE value="Practise 3" />
     <MESSAGE value="Practise 4" />
     <MESSAGE value="Practise 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Practise 5" />
+    <MESSAGE value="Practise 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practise 6" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
