@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f701a3b2-cbee-4966-b6dc-9b7b95a9e4b9" name="Changes" comment="Practise 3">
+    <list default="true" id="f701a3b2-cbee-4966-b6dc-9b7b95a9e4b9" name="Changes" comment="Practise 4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/h04/T1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework/h04/T1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/h04/T2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework/h04/T2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homework/h05/T1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework/h05/T1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homework/h05/T2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework/h05/T2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +68,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mdkho\IdeaProjects\pog1\extra\main\java\homework\h04" />
       <recent name="C:\Users\Mdkho\IdeaProjects\pog1\extra\main\java\homework\h03" />
       <recent name="C:\Users\Mdkho\IdeaProjects\pog1\extra\main\java\homework\h02" />
       <recent name="C:\Users\Mdkho\IdeaProjects\pog1\extra\main\java\homework\h01" />
@@ -111,7 +112,8 @@
     <MESSAGE value="Practise 1" />
     <MESSAGE value="Practise 2" />
     <MESSAGE value="Practise 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Practise 3" />
+    <MESSAGE value="Practise 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practise 4" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

@@ -1,5 +1,9 @@
-package homework.h05;
-
-// base
-// https://leetcode.com/problems/add-binary/
-public class T2 {}
+class Solution {
+    public int[] sortedSquares(int[] nums) {
+        for (int i = 0; i < nums.length; i++) {
+            nums[i] = nums[i] * nums[i];
+        }
+        Arrays.sort(nums);
+        return nums;
+    }
+}
