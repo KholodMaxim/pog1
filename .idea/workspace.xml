@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f701a3b2-cbee-4966-b6dc-9b7b95a9e4b9" name="Changes" comment="Practise 11">
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework/h012/T1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework/h012/T2.java" afterDir="false" />
-    </list>
+    <list default="true" id="f701a3b2-cbee-4966-b6dc-9b7b95a9e4b9" name="Changes" comment="Practise 12" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,11 +64,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mdkho\IdeaProjects\pog1\extra\main\java\homework\h012" />
       <recent name="C:\Users\Mdkho\IdeaProjects\pog1\extra\main\java\homework\h011" />
       <recent name="C:\Users\Mdkho\IdeaProjects\pog1\extra\main\java\homework\h010" />
       <recent name="C:\Users\Mdkho\IdeaProjects\pog1\extra\main\java\homework\h09" />
       <recent name="C:\Users\Mdkho\IdeaProjects\pog1\extra\main\java\homework\h08" />
-      <recent name="C:\Users\Mdkho\IdeaProjects\pog1\extra\main\java\homework\h07" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -120,7 +117,8 @@
     <MESSAGE value="Practise 9" />
     <MESSAGE value="Practise 10" />
     <MESSAGE value="Practise 11" />
-    <option name="LAST_COMMIT_MESSAGE" value="Practise 11" />
+    <MESSAGE value="Practise 12" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practise 12" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
